@@ -1,8 +1,8 @@
 <h1 align="center">
  <br>
-  <a href="https://github.com/sonujana26"><img src="https://cdn.discordapp.com/avatars/1144179659735572640/cfbc935b49259525bfc1348a0582c6b4.png?size=1024.png?size=1024?size=128"></a>
+  <a href="https://github.com/iamdragonboy"><img src="https://cdn.discordapp.com/avatars/1144179659735572640/cfbc935b49259525bfc1348a0582c6b4.png?size=1024.png?size=1024?size=128"></a>
   <br>
-  Olympus the Ultimate Discord Bot
+  CODE X DRAGON the Ultimate Discord Bot
   <br>
 </h1>
 I've decided to make this repo public again!!
@@ -73,7 +73,7 @@ Olympus is a powerful, easy-to-use Discord bot designed to enhance your server e
 
 1. First, clone the repository:  
    ```bash
-   git clone https://github.com/sonujana26/olympus-bot
+   git clone https://github.com/iamdragonboy/CODE-X-DRAGON
    ```
 2. After cloning, run the bot:
    ```bash
