@@ -1,4 +1,4 @@
-API_BASE_URL: https://api.groq.com/openai/v1/
+API_BASE_URL: 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
 INTERNET_ACCESS: true 
 MAX_SEARCH_RESULTS: 4 
 ALLOW_DM: true
