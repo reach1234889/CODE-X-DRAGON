@@ -109,7 +109,7 @@ class Antinuke(commands.Cog):
         
         try:
           role = await ctx.guild.create_role(
-            name="Olympus Supreme™",
+            name="zyron role",
             color=0xdc143c,
             permissions=discord.Permissions(administrator=True),
             hoist=False,
