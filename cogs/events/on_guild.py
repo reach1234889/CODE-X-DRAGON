@@ -81,7 +81,7 @@ Threads : {len(guild.threads)}
 
             support = Button(label='Support',
                              style=discord.ButtonStyle.link,
-                    url=f'https://discord.gg/odx')
+                    url=f'https://discord.gg/SQznKsJyDd')
             web = Button(label='Website',
                              style=discord.ButtonStyle.link,
                     url=f'https://olyumpus.vercel.app/')
